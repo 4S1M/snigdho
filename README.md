@@ -1,1 +1,4 @@
 # snigdho
+
+cd snigdoh
+
